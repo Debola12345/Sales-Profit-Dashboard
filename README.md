@@ -1,10 +1,10 @@
 # Analyzing Sales and Profit Data - Tableau Superstore
 
 ---
+![Refined Tableau Screenshot 2024-11-03 201741](https://github.com/user-attachments/assets/1d938928-49cc-4b6d-8a75-933e9d901e4e)
 
-![S & P Dashboard](https://github.com/user-attachments/assets/629b88a9-8749-4e87-ab4e-e64be5653001)
 ---
-[Click to view the dashboard](link-to-dashboard)
+[Click to view the dashboard](https://public.tableau.com/app/profile/adebola.ogundipe/viz/Refined_Tableau_Project___/ProjectDashboard?publish=yes)
 
 ## Project Overview
 
